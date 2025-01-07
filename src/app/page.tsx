@@ -10,7 +10,7 @@ import {
   getKeyValue,
 } from "@nextui-org/react";
 
-import Filters from "../components/filters";
+import Filters from "./components/filters";
 
 const rows = [
   {
